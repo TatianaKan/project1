@@ -1,0 +1,6 @@
+temp*
+docs/*.txt
+node_modules/
+.idea/
+.vscode/
+logs/
